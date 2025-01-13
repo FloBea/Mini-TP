@@ -3,7 +3,12 @@
 	padding:0;
 }
 
+
 body{
 	witdh: 80%;
 	margin: auto;
+}
+
+main{
+	background-color: green;
 }
